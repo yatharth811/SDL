@@ -1,4 +1,4 @@
-FILES = 01_hello_SDL
+FILES = 1
 CC = g++
 COMPILER_FLAGS = -w
 LINKER_FLAGS = -lSDL2
